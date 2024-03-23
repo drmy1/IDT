@@ -1,0 +1,14 @@
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\bin\Debug\net8.0\Mat-3x3.exe
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\bin\Debug\net8.0\Mat-3x3.deps.json
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\bin\Debug\net8.0\Mat-3x3.runtimeconfig.json
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\bin\Debug\net8.0\Mat-3x3.dll
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\bin\Debug\net8.0\Mat-3x3.pdb
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\obj\Debug\net8.0\Mat-3x3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\obj\Debug\net8.0\Mat-3x3.AssemblyInfoInputs.cache
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\obj\Debug\net8.0\Mat-3x3.AssemblyInfo.cs
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\obj\Debug\net8.0\Mat-3x3.csproj.CoreCompileInputs.cache
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\obj\Debug\net8.0\Mat-3x3.dll
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\obj\Debug\net8.0\refint\Mat-3x3.dll
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\obj\Debug\net8.0\Mat-3x3.pdb
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\obj\Debug\net8.0\Mat-3x3.genruntimeconfig.cache
+C:\Users\drmot\Nextcloud\IDT\Du-1\Mat-3x3\Mat-3x3\obj\Debug\net8.0\ref\Mat-3x3.dll

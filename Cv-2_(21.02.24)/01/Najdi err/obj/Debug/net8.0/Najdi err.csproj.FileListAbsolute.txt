@@ -1,0 +1,14 @@
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\bin\Debug\net8.0\Najdi err.exe
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\bin\Debug\net8.0\Najdi err.deps.json
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\bin\Debug\net8.0\Najdi err.runtimeconfig.json
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\bin\Debug\net8.0\Najdi err.dll
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\bin\Debug\net8.0\Najdi err.pdb
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\obj\Debug\net8.0\Najdi err.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\obj\Debug\net8.0\Najdi err.AssemblyInfoInputs.cache
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\obj\Debug\net8.0\Najdi err.AssemblyInfo.cs
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\obj\Debug\net8.0\Najdi err.csproj.CoreCompileInputs.cache
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\obj\Debug\net8.0\Najdi err.dll
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\obj\Debug\net8.0\refint\Najdi err.dll
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\obj\Debug\net8.0\Najdi err.pdb
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\obj\Debug\net8.0\Najdi err.genruntimeconfig.cache
+C:\Users\drmot\Nextcloud\IDT\Cv-2_(21.02.24)\01\Najdi err\obj\Debug\net8.0\ref\Najdi err.dll

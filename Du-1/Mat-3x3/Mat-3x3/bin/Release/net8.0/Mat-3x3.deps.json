@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mat-3x3/1.0.0": {
+        "runtime": {
+          "Mat-3x3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mat-3x3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
